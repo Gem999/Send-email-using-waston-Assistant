@@ -10,15 +10,19 @@ In a word, if we can follow this whole article, everything would be okay. But th
 
 ## API Key
 
-![image-20220106142349996](C:\Users\小小张\Downloads\image-20220106142349996.png)
+<img width="553" alt="image-20220106142349996" src="https://user-images.githubusercontent.com/66622896/148342542-d92de7ae-42c7-4551-b6e6-4d898095d737.png">
+
 
 This is API key part in the article. But there may be some different now. I think If you open the function interface or actions form function interface, you would see the current namespace, but the key part is not in the same place. Every namespace would have only one API key. 
 
-![image-20220106143336108](C:\Users\小小张\AppData\Roaming\Typora\typora-user-images\image-20220106143336108.png)
+<img width="632" alt="2022-01-06 (1)" src="https://user-images.githubusercontent.com/66622896/148342674-5598a8ad-207d-4288-b662-d3fd69028314.png">
+
+
 
 The API key for the namespace is in the red line part - Namespace Setting.
 
-![image-20220106143856752](C:\Users\小小张\AppData\Roaming\Typora\typora-user-images\image-20220106143856752.png)
+<img width="955" alt="2022-01-06 (3)" src="https://user-images.githubusercontent.com/66622896/148342643-072d2395-5313-4199-bda5-00bed105fe1b.png">
+
 
 This API Key is the part we really needed
 
